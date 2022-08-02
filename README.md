@@ -1,10 +1,10 @@
-![My github stats](https://github-readme-stats.vercel.app/api?username=Yoann-Renard&show_icons=true&theme=darcula&include_all_commits=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Yoann-Renard&show_icons=true&theme=gruvbox&include_all_commits=true)
 
-![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Yoann-Renard&row=1&theme=darcula)
+![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Yoann-Renard&row=1&theme=gruvbox)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yoann-Renard&theme=darcula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yoann-Renard&theme=gruvbox)
 
-![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Renard&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=darcula)
+![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Renard&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=gruvbox)
 
 <!--
 **Yoann-Renard/Yoann-Renard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
