@@ -1,12 +1,12 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Yoann-Renard&show_icons=true&theme=nord&include_all_commits=true)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Yoann-Renard&show_icons=true&theme=nord&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)][ghr]
+![My github stats](https://github-readme-stats.vercel.app/api?username=Yoann-Renard&show_icons=true&theme=nord&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Yoann-Renard&row=1&theme=nord)][gpt]
+![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Yoann-Renard&row=1&theme=nord)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yoann-Renard&theme=nord)][gss]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yoann-Renard&theme=nord)
 
-[![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Renard&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=nord)][ghr]
+![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Renard&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=nord)
 
 <!--
 **Yoann-Renard/Yoann-Renard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
