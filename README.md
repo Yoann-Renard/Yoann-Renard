@@ -4,7 +4,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yoann-Renard&theme=onedark)
 
-![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Renard&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=onedark)
+![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Renard&layout=compact&langs_count=10&hide=html,css&theme=onedark)
 
 <!--
 **Yoann-Renard/Yoann-Renard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
