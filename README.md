@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️Software & ☁️Cloud Architecture Engineer 🤓
+🖥️Software & ☁️Cloud Architect Engineer 🤓
 
 
 ## 🌐 Socials:
