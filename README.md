@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️Software & ☁️Cloud Architect Engineer 🤓
+Software architect/developer 🖥️. Cloud ☁️ & Big Data 📊 specialist. High interest in cybersecurity 🤓
 
 
 ## 🌐 Socials:
